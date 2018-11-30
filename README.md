@@ -12,5 +12,5 @@ Module C<br />
   -Documents about various case studies.<br /><br />
 Module D<br />
   -Documents about computer services and systems.<br /><br />
-Unfinished Work<br />
+Other Work<br />
   -Contains work that is yet to be finished.
